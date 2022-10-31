@@ -55,7 +55,6 @@ body {
     background-color: white;
 }
 
-
 /* .weekend nedan vill inte fungera, även om den kommer efter i koden - whyyyyyyy? 
 Måste alltså skriva in .calendar__dates .weekend {...} */
 
@@ -71,6 +70,3 @@ Måste alltså skriva in .calendar__dates .weekend {...} */
     opacity: 0.4;
 }
 
-.today p {
-
-}
